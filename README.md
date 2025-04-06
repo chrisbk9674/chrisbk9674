@@ -11,15 +11,15 @@ Welcome to my GitHub profile!
     </a>
   </div>
   <div style="flex: 1; padding: 10px; display: flex; flex-direction: column; align-items: center;">
-    <a href="https://link-to-project2.com" style="text-align: center;">
-      <img src="https://github.com/your-username/your-repository-name/raw/main/images/project2-thumbnail.jpg" alt="Project 2" style="width: auto; max-width: 200px; height: auto; border-radius: 8px;">
-      <p style="margin-top: 10px;">Project 2</p>
+    <a href="https://github.com/chrisbk9674/article-preview-component" style="text-align: center;">
+      <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-article-preview-component.jpg" alt="Project 1" style="width: auto; max-width: 200px; height: auto; border-radius: 8px;">
+      <p style="margin-top: 10px;">Article Preview Component</p>
     </a>
   </div>
   <div style="flex: 1; padding: 10px; display: flex; flex-direction: column; align-items: center;">
-    <a href="https://link-to-project3.com" style="text-align: center;">
-      <img src="https://github.com/your-username/your-repository-name/raw/main/images/project3-thumbnail.jpg" alt="Project 3" style="width: auto; max-width: 200px; height: auto; border-radius: 8px;">
-      <p style="margin-top: 10px;">Project 3</p>
+   <a href="https://github.com/chrisbk9674/article-preview-component" style="text-align: center;">
+      <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-article-preview-component.jpg" alt="Project 1" style="width: auto; max-width: 200px; height: auto; border-radius: 8px;">
+      <p style="margin-top: 10px;">Article Preview Component</p>
     </a>
   </div>
 </div>
