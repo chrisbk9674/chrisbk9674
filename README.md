@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
     <td style="width: 200px;">
       <a href="https://github.com/chrisbk9674/article-preview-component">
         <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-article-preview-component.jpg" alt="Project 1" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px;">
-        <p>Article Preview Component</p>
+        <p style="text-align:center;">Article Preview Component</p>
       </a>
     </td>
     <td style="width: 200px;">
