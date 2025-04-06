@@ -3,26 +3,27 @@ Welcome to my GitHub profile!
 - 🌱 I’m a UX Designer and Frontend Developer.  
 - 🔭 Working on exciting projects!
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex: 1 1 30%; padding: 10px; text-align: center; box-sizing: border-box;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <div style="padding: 10px; text-align: center; box-sizing: border-box; width: 30%;">
     <a href="https://github.com/chrisbk9674/article-preview-component">
-      <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-article-preview-component.jpg" alt="Project 1" style="width: 100%; height: auto; max-width: 250px; border-radius: 8px;">
+      <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-article-preview-component.jpg" alt="Project 1" style="width: 100%; max-width: 250px; height: auto; border-radius: 8px;">
       <p>Article Preview Component</p>
     </a>
   </div>
-  <div style="flex: 1 1 30%; padding: 10px; text-align: center; box-sizing: border-box;">
-    <a href="https://github.com/chrisbk9674/article-preview-component">
-      <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-article-preview-component.jpg" alt="Project 1" style="width: 100%; height: auto; max-width: 250px; border-radius: 8px;">
-      <p>Article Preview Component</p>
-    </a>
-  </div>
-  <div style="flex: 1 1 30%; padding: 10px; text-align: center; box-sizing: border-box;">
+  <div style="padding: 10px; text-align: center; box-sizing: border-box; width: 30%;">
      <a href="https://github.com/chrisbk9674/article-preview-component">
-      <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-article-preview-component.jpg" alt="Project 1" style="width: 100%; height: auto; max-width: 250px; border-radius: 8px;">
+      <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-article-preview-component.jpg" alt="Project 1" style="width: 100%; max-width: 250px; height: auto; border-radius: 8px;">
+      <p>Article Preview Component</p>
+    </a>
+  </div>
+  <div style="padding: 10px; text-align: center; box-sizing: border-box; width: 30%;">
+    <a href="https://github.com/chrisbk9674/article-preview-component">
+      <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-article-preview-component.jpg" alt="Project 1" style="width: 100%; max-width: 250px; height: auto; border-radius: 8px;">
       <p>Article Preview Component</p>
     </a>
   </div>
 </div>
+
 
 
 
