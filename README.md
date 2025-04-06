@@ -22,7 +22,7 @@ Welcome to my GitHub profile!
     <td style="text-align: center; padding: 10px;">
       <a href="https://github.com/chrisbk9674/blog-preview-card" target="_blank">
         <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-blog-preview-card.jpg" alt="Blog Preview Card" style="width: 200px; height: auto; border-radius: 8px;">
-        <p>Article Preview Component</p>
+        <p>Blog Preview Card</p>
       </a>
     </td>
     <!--    <td style="text-align: center; padding: 10px;">
