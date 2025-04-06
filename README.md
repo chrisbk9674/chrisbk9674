@@ -4,25 +4,31 @@ Welcome to my GitHub profile!
 - 🔭 Working on exciting projects!
 
 <div style="display: flex; justify-content: space-around; gap: 20px; text-align: center;">
+  <!-- First Project -->
   <div style="flex: 1; padding: 10px; display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/chrisbk9674/article-preview-component">
-      <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-article-preview-component.jpg" alt="Project 1" style="max-width: 200px; height: auto; border-radius: 8px;">
+    <a href="https://github.com/chrisbk9674/article-preview-component" target="_blank">
+      <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-article-preview-component.jpg" alt="Project 1" style="width: 200px; height: auto; border-radius: 8px;">
       <p style="margin-top: 10px;">Article Preview Component</p>
     </a>
   </div>
+
+  <!-- Second Project -->
   <div style="flex: 1; padding: 10px; display: flex; flex-direction: column; align-items: center;">
-    <a href="https://github.com/chrisbk9674/article-preview-component">
-      <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-article-preview-component.jpg" alt="Project 1" style="max-width: 200px; height: auto; border-radius: 8px;">
-      <p style="margin-top: 10px;">Article Preview Component</p>
+    <a href="https://link-to-project2.com" target="_blank">
+      <img src="https://github.com/your-username/your-repository-name/raw/main/images/project2-thumbnail.jpg" alt="Project 2" style="width: 200px; height: auto; border-radius: 8px;">
+      <p style="margin-top: 10px;">Project 2</p>
     </a>
   </div>
+
+  <!-- Third Project -->
   <div style="flex: 1; padding: 10px; display: flex; flex-direction: column; align-items: center;">
-     <a href="https://github.com/chrisbk9674/article-preview-component">
-      <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-article-preview-component.jpg" alt="Project 1" style="max-width: 200px; height: auto; border-radius: 8px;">
-      <p style="margin-top: 10px;">Article Preview Component</p>
+    <a href="https://link-to-project3.com" target="_blank">
+      <img src="https://github.com/your-username/your-repository-name/raw/main/images/project3-thumbnail.jpg" alt="Project 3" style="width: 200px; height: auto; border-radius: 8px;">
+      <p style="margin-top: 10px;">Project 3</p>
     </a>
   </div>
 </div>
+
 
 
 
