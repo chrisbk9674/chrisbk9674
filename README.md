@@ -12,15 +12,15 @@ Welcome to my GitHub profile!
       </a>
     </td>
     <td style="width: 200px;">
-      <a href="https://link-to-project2.com">
-        <img src="https://github.com/your-username/your-repository-name/raw/main/images/project2-thumbnail.jpg" alt="Project 2" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px;">
-        <p>Project 2</p>
+      <a href="https://github.com/chrisbk9674/article-preview-component">
+        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-article-preview-component.jpg" alt="Project 1" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px;">
+        <p>Article Preview Component</p>
       </a>
     </td>
     <td style="width: 200px;">
-      <a href="https://link-to-project3.com">
-        <img src="https://github.com/your-username/your-repository-name/raw/main/images/project3-thumbnail.jpg" alt="Project 3" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px;">
-        <p>Project 3</p>
+      <a href="https://github.com/chrisbk9674/article-preview-component">
+        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-article-preview-component.jpg" alt="Project 1" style="width: 100%; max-width: 200px; height: auto; border-radius: 8px;">
+        <p>Article Preview Component</p>
       </a>
     </td>
   </tr>
