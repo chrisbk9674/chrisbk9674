@@ -3,7 +3,7 @@ Welcome to my GitHub profile!
 - 🌱 I’m a UX Designer and Frontend Developer.  
 - 🔭 Working on exciting projects!  
     
-## 📈 GitHub Stats  
+<!--## 📈 GitHub Stats  
 
 <table>
   <tr>
@@ -11,4 +11,4 @@ Welcome to my GitHub profile!
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbk9674&layout=compact&theme=tokyonight" height="150"/></td>
    
   </tr>
-</table>
+</table> -->
