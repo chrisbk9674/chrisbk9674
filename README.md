@@ -63,6 +63,12 @@ Welcome to my GitHub profile!
         <div>Profile Card Component</div>
       </a>
     </td>
+     <td align="center" style="padding: 10px;">
+      <a href="https://github.com/chrisbk9674/qr-code-component" target="_blank">
+        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-qr-code-component.jpg" alt="QR Code Component" style="width: 200px; border-radius: 8px;"><br>
+        <div>QR Code Component</div>
+      </a>
+    </td>
   </tr>
 </table>
 
