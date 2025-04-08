@@ -95,6 +95,12 @@ Welcome to my GitHub profile!
         <div>Social Proof Section</div>
       </a>
     </td>
+      <td align="center" style="padding: 10px;">
+      <a href="https://github.com/chrisbk9674/stats-preview-card-component" target="_blank">
+        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-stats-preview-card-component.jpg" alt="Stats Preview Card Component" style="width: 200px; border-radius: 8px;"><br>
+        <div>Stats Preview Card Component</div>
+      </a>
+    </td>
   </tr>
 </table>
 
