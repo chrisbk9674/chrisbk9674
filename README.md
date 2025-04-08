@@ -77,6 +77,12 @@ Welcome to my GitHub profile!
         <div>Recipe Page</div>
       </a>
     </td>
+     <td align="center" style="padding: 10px;">
+      <a href="https://github.com/chrisbk9674/results-summary-component" target="_blank">
+        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-results-summary-component.jpg" alt="Results Summary Component" style="width: 200px; border-radius: 8px;"><br>
+        <div>Results Summary Component</div>
+      </a>
+    </td>
   </tr>
 </table>
 
