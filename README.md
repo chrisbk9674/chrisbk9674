@@ -70,6 +70,14 @@ Welcome to my GitHub profile!
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/chrisbk9674/recipe-page" target="_blank">
+        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-recipe-page.jpg" alt="Recipe Page" style="width: 200px; border-radius: 8px;"><br>
+        <div>Recipe Page</div>
+      </a>
+    </td>
+  </tr>
 </table>
 
 
