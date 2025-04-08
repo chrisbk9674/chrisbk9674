@@ -89,6 +89,12 @@ Welcome to my GitHub profile!
         <div>Social Links Profile</div>
       </a>
     </td>
+     <td align="center" style="padding: 10px;">
+      <a href="https://github.com/chrisbk9674/social-proof-section" target="_blank">
+        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-social-proof-section.jpg" alt="Social Proof Section" style="width: 200px; border-radius: 8px;"><br>
+        <div>Social Proof Section</div>
+      </a>
+    </td>
   </tr>
 </table>
 
