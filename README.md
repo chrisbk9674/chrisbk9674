@@ -57,6 +57,12 @@ Welcome to my GitHub profile!
         <div>Product Preview Card Component</div>
       </a>
     </td>
+     <td align="center" style="padding: 10px;">
+      <a href="https://github.com/chrisbk9674/profile-card-component" target="_blank">
+        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-profile-card-component.jpg" alt="Profile Card Component" style="width: 200px; border-radius: 8px;"><br>
+        <div>Profile Card Component</div>
+      </a>
+    </td>
   </tr>
 </table>
 
