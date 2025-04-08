@@ -30,15 +30,15 @@ Welcome to my GitHub profile!
         <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-four-card-feature-section.jpg" alt="Four Card Feature Section" style="width: 200px; height: auto; border-radius: 8px;">
         <p>Four Card Feature Section</p>
       </a>
-    </td>
-     </td>
+    
+  </td>
       <td style="text-align: center; padding: 10px;">
       <a href="https://github.com/chrisbk9674/interactive-rating-component" target="_blank">
         <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-interactive-rating-component.jpg" alt="Four Card Feature Section" style="width: 200px; height: auto; border-radius: 8px;">
         <p>Interactive Rating Component</p>
       </a>
     </td>
-    <!--    <td style="text-align: center; padding: 10px;">
+      <td style="text-align: center; padding: 10px;">
       <a href="https://github.com/chrisbk9674/article-preview-component" target="_blank">
         <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-article-preview-component.jpg" alt="Article Preview Component" style="width: 200px; height: auto; border-radius: 8px;">
         <p>Article Preview Component</p>
@@ -56,8 +56,7 @@ Welcome to my GitHub profile!
         <p>Article Preview Component</p>
       </a>
     </td>
-  </tr>
-    <tr>
+ 
     <td style="text-align: center; padding: 10px;">
       <a href="https://github.com/chrisbk9674/article-preview-component" target="_blank">
         <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-article-preview-component.jpg" alt="Article Preview Component" style="width: 200px; height: auto; border-radius: 8px;">
@@ -75,7 +74,7 @@ Welcome to my GitHub profile!
         <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-blog-preview-card.jpg" alt="Blog Preview Card" style="width: 200px; height: auto; border-radius: 8px;">
         <p>Article Preview Component</p>
       </a>
-    </td>-->
+    </td>
     
   </tr>
   
