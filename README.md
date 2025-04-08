@@ -47,13 +47,13 @@ Welcome to my GitHub profile!
     </td>
      <td align="center" style="padding: 10px;">
       <a href="https://github.com/chrisbk9674/order-summary-component" target="_blank">
-        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-order-summary-component.jpg" alt="NFT Preview Card Component" style="width: 200px; border-radius: 8px;"><br>
+        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-order-summary-component.jpg" alt="Order Summary Component" style="width: 200px; border-radius: 8px;"><br>
         <div>Order Summary Component</div>
       </a>
     </td>
      <td align="center" style="padding: 10px;">
       <a href="https://github.com/chrisbk9674/product-preview-card-component" target="_blank">
-        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-product-preview-card-component.jpg" alt="NFT Preview Card Component" style="width: 200px; border-radius: 8px;"><br>
+        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-product-preview-card-component.jpg" alt="Product Preview Card Component" style="width: 200px; border-radius: 8px;"><br>
         <div>Product Preview Card Component</div>
       </a>
     </td>
