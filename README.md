@@ -109,6 +109,12 @@ Welcome to my GitHub profile!
         <div>FAQ Page Accordion</div>
       </a>
     </td>
+        <td align="center" style="padding: 10px;">
+      <a href="https://github.com/chrisbk9674/base-apparel-coming-soon-page" target="_blank">
+        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-base-apparel-coming-soon-page.jpg" alt="FAQ Page Accordion" style="width: 200px; border-radius: 8px;"><br>
+        <div>Base Apparel Coming Soon Page</div>
+      </a>
+    </td>
   </tr>
 </table>
 
