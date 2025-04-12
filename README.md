@@ -115,6 +115,12 @@ Welcome to my GitHub profile!
         <div>Base Apparel Coming Soon Page</div>
       </a>
     </td>
+        <td align="center" style="padding: 10px;">
+      <a href="https://github.com/chrisbk9674/intro-component-with-sign-up-form" target="_blank">
+        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-intro-component-with-sign-up-form.jpg" alt="FAQ Page Accordion" style="width: 200px; border-radius: 8px;"><br>
+        <div>Intro Component With Sign Up Form</div>
+      </a>
+    </td>
   </tr>
 </table>
 
