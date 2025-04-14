@@ -121,6 +121,12 @@ Welcome to my GitHub profile!
         <div>Intro Component With Sign Up Form</div>
       </a>
     </td>
+        <td align="center" style="padding: 10px;">
+      <a href="https://github.com/chrisbk9674/single-price-grid-component" target="_blank">
+        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-single-price-grid-component.jpg" alt="Single Price Grid Component" style="width: 200px; border-radius: 8px;"><br>
+        <div>Single Price Grid Component</div>
+      </a>
+    </td>
   </tr>
 </table>
 
