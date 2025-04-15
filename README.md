@@ -127,6 +127,12 @@ Welcome to my GitHub profile!
         <div>Single Price Grid Component</div>
       </a>
     </td>
+        <td align="center" style="padding: 10px;">
+      <a href="https://github.com/chrisbk9674/ping-single-column-coming-soon-page" target="_blank">
+        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-ping-single-column-coming-soon-page.jpg" alt="Ping Single Column Coming Soon Page" style="width: 200px; border-radius: 8px;"><br>
+        <div>Ping Single Column Coming Soon Page</div>
+      </a>
+    </td>
   </tr>
 </table>
 
