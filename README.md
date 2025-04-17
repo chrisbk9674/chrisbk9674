@@ -134,6 +134,15 @@ Welcome to my GitHub profile!
       </a>
     </td>
   </tr>
+    <tr>
+        <td align="center" style="padding: 10px;">
+      <a href="https://github.com/chrisbk9674/huddle-landing-page" target="_blank">
+        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-huddle-landing-page.jpg" alt="Huddle Landing Page" style="width: 200px; border-radius: 8px;"><br>
+        <div>Huddle Landing Page</div>
+      </a>
+    </td>
+      
+  </tr>
 </table>
 
 
