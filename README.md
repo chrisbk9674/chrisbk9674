@@ -4,7 +4,7 @@ I'm passionate about crafting user-friendly, responsive interfaces. Below are re
 
 
 **📱 All of these projects are fully responsive**   
-To see them in action, try resizing your browser window to explore how each layout adapts across different screen sizes.
+When viewing each project, try resizing your browser window to explore how each layout adapts across different screen sizes.
 
 
 
