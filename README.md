@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Chris!  
-Welcome to my GitHub profile!  
+# 👋 Hi, I'm Christopher, Welcome to my GitHub profile! I'm a UX Designer and Frontend Developer passionate about crafting user-friendly, responsive interfaces. Below are real-world projects where I bring design to life through clean, accessible code!  
+  
 
 - 🌱 I’m a UX Designer and Frontend Developer  
 - 🔭 Currently working on exciting projects  
