@@ -2,7 +2,9 @@
 I'm passionate about crafting user-friendly, responsive interfaces. Below are real-world projects where I bring designs to life through clean, accessible code. 
   
 
-<p align="center"><b>All projects are fully responsive.</b><br>Try resizing your browser window to see the designs adjust across different screen sizes!</p>
+**Note:** All of these projects are fully responsive.  
+To see them in action, try resizing your browser window to explore how each layout adapts across different screen sizes.
+
 
 
 <table>
