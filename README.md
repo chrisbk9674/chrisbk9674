@@ -2,12 +2,8 @@
 I'm passionate about crafting user-friendly, responsive interfaces. Below are real-world projects where I bring designs to life through clean, accessible code. 
   
 
-**📱 Fully Responsive Projects**  
-These projects adapt beautifully across screen sizes.  
-Try resizing your browser window to see each layout in action!
 
-
-**Note:** All of these projects are fully responsive.  
+**📱 All of these projects are fully responsive**   
 To see them in action, try resizing your browser window to explore how each layout adapts across different screen sizes.
 
 
