@@ -2,9 +2,8 @@
 I'm passionate about crafting user-friendly, responsive interfaces. Below are real-world projects where I bring designs to life through clean, accessible code. 
   
 
-- 🌱 I’m a UX Designer and Frontend Developer  
-- 🔭 Currently working on exciting projects  
-- 💼 See more of my work below:
+<p align="center"><b>All projects are fully responsive.</b><br>Try resizing your browser window to see the designs adjust across different screen sizes!</p>
+
 
 <table>
   <tr>
