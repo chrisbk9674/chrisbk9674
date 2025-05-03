@@ -10,7 +10,12 @@ When viewing each project, try resizing your browser window to explore how each 
 
 <table>
   <tr>
-    
+     <td align="center" style="padding: 10px;">
+      <a href="https://github.com/chrisbk9674/browser-extension-manager" target="_blank">
+        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-dark-browser-extension-manager.jpg" alt="Christopher Alvarez UX Project – View the Browser Extension Manager User Interface" style="width: 200px; border-radius: 8px;"><br>
+        <div>Browser Extension Manager</div>
+      </a>
+    </td>
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/chrisbk9674/article-preview-component" target="_blank">
         <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-article-preview-component.jpg" alt="Christopher Alvarez UX Project – View the Article Preview Component" style="width: 200px; border-radius: 8px;"><br>
@@ -145,23 +150,9 @@ When viewing each project, try resizing your browser window to explore how each 
         <div>Huddle Landing Page</div>
       </a>
     </td>
-       <td align="center" style="padding: 10px;">
-      <a href="https://github.com/chrisbk9674/browser-extension-manager" target="_blank">
-        <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-dark-browser-extension-manager.jpg" alt="Christopher Alvarez UX Project – View the Browser Extension Manager User Interface" style="width: 200px; border-radius: 8px;"><br>
-        <div>Browser Extension Manager</div>
-      </a>
-    </td>
+      
   </tr>
 </table>
 
 
-<!-- GitHub Stats Section - Uncomment if needed
-## 📈 GitHub Stats  
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=chrisbk9674&show_icons=true&theme=tokyonight" height="150"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbk9674&layout=compact&theme=tokyonight" height="150"/></td>
-  </tr>
-</table>
--->
