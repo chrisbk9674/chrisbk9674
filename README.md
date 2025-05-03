@@ -113,7 +113,7 @@ When viewing each project, try resizing your browser window to explore how each 
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com/chrisbk9674/faq-accordion" target="_blank">
+      <a href="https://github.com/chrisbk9674/faq-accordian" target="_blank">
         <img src="https://github.com/chrisbk9674/chrisbk9674/raw/main/images/desktop-design-faq-accordian.jpg" alt="FAQ Page Accordion" style="width: 200px; border-radius: 8px;"><br>
         <div>FAQ Page Accordion</div>
       </a>
